@@ -1,0 +1,14 @@
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\bin\Debug\Init09Codage.exe.config
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\bin\Debug\Init09Codage.exe
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\bin\Debug\Init09Codage.pdb
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\bin\Debug\Interop.WMPLib.dll
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Lecteur.csprojAssemblyReference.cache
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Interop.WMPLib.dll
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Lecteur.csproj.ResolveComReference.cache
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Init09Codage.Properties.Resources.resources
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Lecteur.csproj.GenerateResource.cache
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Init09Codage.exe
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Init09Codage.pdb
+D:\Documents\M1IL\Csharp init\Init09Codage\Init09Codage\obj\Debug\Init_09_10.Form1.resources

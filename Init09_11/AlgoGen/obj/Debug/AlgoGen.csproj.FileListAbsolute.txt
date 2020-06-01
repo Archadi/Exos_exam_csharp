@@ -1,0 +1,8 @@
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\bin\Debug\AlgoGen.exe.config
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\bin\Debug\AlgoGen.exe
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\bin\Debug\AlgoGen.pdb
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\bin\Debug\GAF.47.dll
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\obj\Debug\AlgoGen.csprojAssemblyReference.cache
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\obj\Debug\AlgoGen.csproj.CopyComplete
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\obj\Debug\AlgoGen.exe
+D:\Documents\M1IL\Csharp init\Init09Codage\AlgoGen\obj\Debug\AlgoGen.pdb

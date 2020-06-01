@@ -1,0 +1,14 @@
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe.config
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.pdb
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Form1.resources
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Properties.Resources.resources
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.cache
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Form2.resources
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ExerciceJeu.resources
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Personnes_Form.resources
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csprojAssemblyReference.cache
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.HotelGrandeForm.resources
+D:\Csharp Projets\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.CalculatriceForm.resources

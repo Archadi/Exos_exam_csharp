@@ -1,0 +1,4 @@
+D:\Csharp Projets\Robocode\Robots\bin\Debug\HA.Robots.dll
+D:\Csharp Projets\Robocode\Robots\bin\Debug\HA.Robots.pdb
+D:\Csharp Projets\Robocode\Robots\obj\Debug\HA.Robots.dll
+D:\Csharp Projets\Robocode\Robots\obj\Debug\HA.Robots.pdb

@@ -1,0 +1,5 @@
+D:\Csharp Projets\Robocode\Robocode\bin\Debug\Robocode.exe.config
+D:\Csharp Projets\Robocode\Robocode\bin\Debug\Robocode.exe
+D:\Csharp Projets\Robocode\Robocode\bin\Debug\Robocode.pdb
+D:\Csharp Projets\Robocode\Robocode\obj\Debug\Robocode.exe
+D:\Csharp Projets\Robocode\Robocode\obj\Debug\Robocode.pdb

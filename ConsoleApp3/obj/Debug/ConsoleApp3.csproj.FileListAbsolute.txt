@@ -1,0 +1,6 @@
+D:\Csharp Projets\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Csharp Projets\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Csharp Projets\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Csharp Projets\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Csharp Projets\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Csharp Projets\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

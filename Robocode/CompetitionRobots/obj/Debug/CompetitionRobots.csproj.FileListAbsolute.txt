@@ -1,0 +1,7 @@
+D:\Csharp Projets\Robocode\CompetitionRobots\bin\Debug\M1IL.CompetitionRobots.dll
+D:\Csharp Projets\Robocode\CompetitionRobots\bin\Debug\M1IL.CompetitionRobots.pdb
+D:\Csharp Projets\Robocode\CompetitionRobots\bin\Debug\robocode.dll
+D:\Csharp Projets\Robocode\CompetitionRobots\bin\Debug\robocode.xml
+D:\Csharp Projets\Robocode\CompetitionRobots\obj\Debug\CompetitionRobots.csproj.CopyComplete
+D:\Csharp Projets\Robocode\CompetitionRobots\obj\Debug\M1IL.CompetitionRobots.dll
+D:\Csharp Projets\Robocode\CompetitionRobots\obj\Debug\M1IL.CompetitionRobots.pdb
